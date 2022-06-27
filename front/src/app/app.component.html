@@ -1,0 +1,46 @@
+<div class="container">
+    <div class="row">
+        <div class="col " style="padding-top: 10px; padding-bottom: 20px;">
+            <div class="text-center" style="padding-bottom: 15px; padding-top: 15px;">
+                <img [src]="info[0].user.profile_image_url" class="img-fluid" [alt]="info[0].user.profile_image_url" width="25%" height="25%">
+            </div>
+
+
+            <div class="card" style="width: 100%;">
+                <div class="card-header">
+                    <strong> Romer Timeline</strong>
+                </div>
+
+                <ul class="list-group list-group-flush">
+                    <li *ngFor="let data of info, let i=index" class="list-group-item">
+                        <div class="row">
+                            <div class="col-md-2">
+                                <img [src]="data.user.profile_image_url" class="img-fluid" [align]="data.user.name" width="100%" height="100%">
+                            </div>
+                            <div class="col">
+                                <h6><strong>{{data.user.name}}</strong></h6>
+                                <p>{{data.text}}</p>
+                            </div>
+                        </div>
+                    </li>
+                    <a [href]="this.url" class="card-link" style="padding-left: 10px; padding-bottom: 20px; padding-top: 20px; ">Go to my Account</a>
+                </ul>
+
+            </div>
+        </div>
+
+        <div class="col-md-5" style="padding-top: 60px;">
+            <h3>Elon Musk</h3>
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title"><strong>My Work Experience</strong> </h5>
+                    <hr>
+                    <p class="card-text">
+                        Entrepreneur Elon Musk has achieved global fame as the chief executive (CEO) of electric autos maker Tesla Inc. (TSLA) and CEO of the private space company SpaceX. Musk co-founded PayPal (PYPL), was an early investor in several tech companies, and in April 2022 he began negotiations for a deal to take Twitter Inc. (TWTR) private.
+                        His success and personal style has given rise to comparisons to other colorful tycoons from U.S. history, including Steve Jobs, Howard Hughes, and Henry Ford. He was named the richest person in the world with an estimated net worth of $220 billion as of June 2022.1 Musk first achieved that distinction in 2021, surpassing Amazon.com Inc. (AMZN) founder Jeff Bezos.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

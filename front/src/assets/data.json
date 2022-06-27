@@ -1,0 +1,556 @@
+[
+  {
+    "created_at": "Tue Jun 21 22:33:11 +0000 2022",
+    "id": 1539375908800368600,
+    "id_str": "1539375908800368641",
+    "text": "@thesheetztweetz Their attempt to bait and switch satellite spectrum for cellular spectrum is super shady and uneth… https://t.co/Vtzg7Esrz0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "thesheetztweetz",
+          "name": "Michael Sheetz",
+          "id": 1231406720,
+          "id_str": "1231406720",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Vtzg7Esrz0",
+          "expanded_url": "https://twitter.com/i/web/status/1539375908800368641",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1539366377231945700,
+    "in_reply_to_status_id_str": "1539366377231945732",
+    "in_reply_to_user_id": 1231406720,
+    "in_reply_to_user_id_str": "1231406720",
+    "in_reply_to_screen_name": "thesheetztweetz",
+    "user": {
+      "id": 44196397,
+      "id_str": "44196397",
+      "name": "Elon Musk",
+      "screen_name": "elonmusk",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 99355071,
+      "friends_count": 114,
+      "listed_count": 96817,
+      "created_at": "Tue Jun 02 20:12:29 +0000 2009",
+      "favourites_count": 13707,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 18559,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1529956155937759233/Nyn1HZWF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1529956155937759233/Nyn1HZWF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1576183471",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 825,
+    "favorite_count": 7040,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 21 19:14:51 +0000 2022",
+    "id": 1539325996897292300,
+    "id_str": "1539325996897292289",
+    "text": "@SawyerMerritt Hardly anyone knows this",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SawyerMerritt",
+          "name": "Sawyer Merritt 📈🚀",
+          "id": 243013409,
+          "id_str": "243013409",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1539306998088749000,
+    "in_reply_to_status_id_str": "1539306998088749056",
+    "in_reply_to_user_id": 243013409,
+    "in_reply_to_user_id_str": "243013409",
+    "in_reply_to_screen_name": "SawyerMerritt",
+    "user": {
+      "id": 44196397,
+      "id_str": "44196397",
+      "name": "Elon Musk",
+      "screen_name": "elonmusk",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 99355071,
+      "friends_count": 114,
+      "listed_count": 96817,
+      "created_at": "Tue Jun 02 20:12:29 +0000 2009",
+      "favourites_count": 13707,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 18559,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1529956155937759233/Nyn1HZWF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1529956155937759233/Nyn1HZWF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1576183471",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3185,
+    "favorite_count": 63194,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 21 17:04:33 +0000 2022",
+    "id": 1539293206042579000,
+    "id_str": "1539293206042578944",
+    "text": "@alex_avoigt @WholeMarsBlog Probably only a few months",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "alex_avoigt",
+          "name": "Alex",
+          "id": 718747351792398300,
+          "id_str": "718747351792398336",
+          "indices": [
+            0,
+            12
+          ]
+        },
+        {
+          "screen_name": "WholeMarsBlog",
+          "name": "Whole Mars Catalog",
+          "id": 1263491240336769000,
+          "id_str": "1263491240336769026",
+          "indices": [
+            13,
+            27
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1539201300604371000,
+    "in_reply_to_status_id_str": "1539201300604370946",
+    "in_reply_to_user_id": 718747351792398300,
+    "in_reply_to_user_id_str": "718747351792398336",
+    "in_reply_to_screen_name": "alex_avoigt",
+    "user": {
+      "id": 44196397,
+      "id_str": "44196397",
+      "name": "Elon Musk",
+      "screen_name": "elonmusk",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 99355071,
+      "friends_count": 114,
+      "listed_count": 96817,
+      "created_at": "Tue Jun 02 20:12:29 +0000 2009",
+      "favourites_count": 13707,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 18559,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1529956155937759233/Nyn1HZWF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1529956155937759233/Nyn1HZWF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1576183471",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 172,
+    "favorite_count": 3102,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 21 17:02:15 +0000 2022",
+    "id": 1539292625433501700,
+    "id_str": "1539292625433501702",
+    "text": "@business Twitter me &amp; real-life me are quite different haha! https://t.co/zedimZrthW",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "business",
+          "name": "Bloomberg",
+          "id": 34713362,
+          "id_str": "34713362",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1539292621532708900,
+          "id_str": "1539292621532708864",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVyqe9fWQAAhOwK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVyqe9fWQAAhOwK.jpg",
+          "url": "https://t.co/zedimZrthW",
+          "display_url": "pic.twitter.com/zedimZrthW",
+          "expanded_url": "https://twitter.com/elonmusk/status/1539292625433501702/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 478,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 938,
+              "h": 660,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 938,
+              "h": 660,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1539292621532708900,
+          "id_str": "1539292621532708864",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVyqe9fWQAAhOwK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVyqe9fWQAAhOwK.jpg",
+          "url": "https://t.co/zedimZrthW",
+          "display_url": "pic.twitter.com/zedimZrthW",
+          "expanded_url": "https://twitter.com/elonmusk/status/1539292625433501702/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 478,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 938,
+              "h": 660,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 938,
+              "h": 660,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1539242527987048400,
+    "in_reply_to_status_id_str": "1539242527987048448",
+    "in_reply_to_user_id": 34713362,
+    "in_reply_to_user_id_str": "34713362",
+    "in_reply_to_screen_name": "business",
+    "user": {
+      "id": 44196397,
+      "id_str": "44196397",
+      "name": "Elon Musk",
+      "screen_name": "elonmusk",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 99355071,
+      "friends_count": 114,
+      "listed_count": 96817,
+      "created_at": "Tue Jun 02 20:12:29 +0000 2009",
+      "favourites_count": 13707,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 18559,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1529956155937759233/Nyn1HZWF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1529956155937759233/Nyn1HZWF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1576183471",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7852,
+    "favorite_count": 133364,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 21 16:58:57 +0000 2022",
+    "id": 1539291794436915200,
+    "id_str": "1539291794436915200",
+    "text": "@BloombergLive @Twitter The vote of confidence is much appreciated",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "BloombergLive",
+          "name": "Bloomberg Live",
+          "id": 237417499,
+          "id_str": "237417499",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "Twitter",
+          "name": "Twitter",
+          "id": 783214,
+          "id_str": "783214",
+          "indices": [
+            15,
+            23
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1539240227738464300,
+    "in_reply_to_status_id_str": "1539240227738464258",
+    "in_reply_to_user_id": 237417499,
+    "in_reply_to_user_id_str": "237417499",
+    "in_reply_to_screen_name": "BloombergLive",
+    "user": {
+      "id": 44196397,
+      "id_str": "44196397",
+      "name": "Elon Musk",
+      "screen_name": "elonmusk",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 99355071,
+      "friends_count": 114,
+      "listed_count": 96817,
+      "created_at": "Tue Jun 02 20:12:29 +0000 2009",
+      "favourites_count": 13707,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 18559,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1529956155937759233/Nyn1HZWF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1529956155937759233/Nyn1HZWF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1576183471",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1736,
+    "favorite_count": 39350,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]
